@@ -1,7 +1,11 @@
 # BiLinkedList
 Simple implementation of a doubly linked list for my Fundemental Data Structures and Algorithms course in the Far Eastern University.
 
-functions:
+## Task:
+
+Realise doubly linked list without repeats, with adding to the tail, deleting the given one, symmetrical difference.
+
+###### Functions:
 
 isEmpty - checking for an empty list
 
@@ -24,3 +28,4 @@ Clear - delete all the elements from the list
 Symmetric - symmetric differene of two BiLists
 
 ![image](https://user-images.githubusercontent.com/89124030/212095300-8eab01b1-f96f-4db5-9d2b-6b2aa7fbe3e5.png)
+just me while i was coding this shit
